@@ -1,0 +1,13 @@
+body{
+    background: purple;
+    color:antiquewhite;
+    margin: 0px;
+    font-family: "Itim", cursive;
+    margin-bottom: 100px;
+}
+header{
+    border-bottom: 3px solid plum;
+    padding: 20px;
+    color: aliceblue;
+    font-size: 35px;
+}
