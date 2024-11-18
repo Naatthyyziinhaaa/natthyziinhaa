@@ -11,3 +11,16 @@ header{
     color: aliceblue;
     font-size: 35px;
 }
+ .chamada{
+    background: rgb(0, 0, 0);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+ }
+  .chamada{
+    margin-right: 5%;
+  }
+  h1{
+    font-size: 35px;
+  }
